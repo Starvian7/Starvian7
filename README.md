@@ -42,16 +42,26 @@
       </div>
       </td>
       <td valign="top" width="35%">
-      <h3>Data/ML/AI</h3>
+      <h3>Data/ML/AI/Computer Vision</h3>
       <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" alt="scala" width="45" height="45"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="45" height="45"/>    
       </div>
       </td>
-       <td valign="top" width="35%">
+      <td valign="top" width="35%">
       <h3>SysDev/OS</h3>
       <div align="center">    
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+      </div>
+      </td>
+      <td valign="top" width="35%">
+      <h3>Editing and Design</h3>
+      <div align="center">    
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="45" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premierepro" width="45" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
+          
       </div>
       </td>
    </tr>
