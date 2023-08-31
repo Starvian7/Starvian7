@@ -49,7 +49,9 @@
       </div>
 
    </tr>
+   
    <br/>  
+   
    <tr> 
       <td valign="top" width="33%">
       ### Backend
@@ -57,6 +59,33 @@
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
       </div>
    </tr>
+
+   <br/>  
+   
+   <tr> 
+      <td valign="top" width="33%">
+      ### DevOps
+      <div align="center">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
+      </div>
+   </tr>
+
+   <tr> 
+      <td valign="top" width="33%">
+      ### Database
+      <div align="center">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
+      </div>
+   </tr>
+
+   <tr> 
+      <td valign="top" width="33%">
+      ### AppDev
+      <div align="center">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
+      </div>
+   </tr>
+   
 </table>
 
           
