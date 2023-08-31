@@ -1,9 +1,9 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 
@@ -12,8 +12,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" alt="scala" width="45" height="45"/>
@@ -82,7 +80,8 @@
       <td valign="top" width="35%">
       <h3>AppDev</h3>
       <div align="center">
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
       </div>
    </tr>
    
