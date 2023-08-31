@@ -49,6 +49,15 @@
       </div>
    </td>
 </tr>
+
+   <tr>
+   <td valign="top" width="33%"> 
+      ### Frontend
+      <div align="center">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
+      </div>
+   </td>
+</tr>
 </table>
 
           
