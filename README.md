@@ -1,16 +1,6 @@
 <h2> 🚀 &nbsp;Some Tools I Have Learned and Used</h2>
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" alt="scala" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-
-
-
 <table>
    <tr>
       <td valign="top" width="35%">
@@ -49,6 +39,19 @@
       <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
+      </div>
+      </td>
+      <td valign="top" width="35%">
+      <h3>Data/ML/AI</h3>
+      <div align="center">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" alt="scala" width="45" height="45"/>
+      </div>
+      </td>
+       <td valign="top" width="35%">
+      <h3>SysDev/OS</h3>
+      <div align="center">    
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
       </div>
       </td>
    </tr>
