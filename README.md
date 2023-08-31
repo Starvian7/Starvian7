@@ -17,7 +17,7 @@
       <h3>Frontend</h3>
       <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/> 
       </div>  
       <td valign="top" width="35%">
@@ -36,13 +36,13 @@
       </div>
       <td valign="top" width="35%">
       <h3>DevOps</h3>
-      <div align="center">
+      <div align="left">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
       </div>
       <td valign="top" width="35%">
       <h3>AppDev</h3>
-      <div align="center">
+      <div align="left">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
       </div>
