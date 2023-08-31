@@ -42,7 +42,7 @@
 
 <table>
    <tr>
-      <td valign="top" width="33%">
+      <td valign="top" width="35%">
       <h3>Frontend</h3>
       <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
@@ -53,8 +53,8 @@
    <br/>  
    
    <tr> 
-      <td valign="top" width="33%">
-      <h3>Frontend</h3>
+      <td valign="top" width="35%">
+      <h3>Backend</h3>
       <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
       </div>
@@ -63,24 +63,24 @@
    <br/>  
    
    <tr> 
-      <td valign="top" width="33%">
-      ### DevOps
+      <td valign="top" width="35%">
+      <h3>DevOps</h3>
       <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
       </div>
    </tr>
 
    <tr> 
-      <td valign="top" width="33%">
-      ### Database
+      <td valign="top" width="35%">
+      <h3>Database</h3>
       <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
       </div>
    </tr>
 
    <tr> 
-      <td valign="top" width="33%">
-      ### AppDev
+      <td valign="top" width="35%">
+      <h3>AppDev</h3>
       <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
       </div>
