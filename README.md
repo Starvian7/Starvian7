@@ -34,6 +34,9 @@
       <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
+           <img src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg" alt="maven" width="45" height="45"/> 
+         
       </div>
       </td>
       <td valign="top" width="35%">
