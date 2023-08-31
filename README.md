@@ -36,13 +36,13 @@
       </div>
       <td valign="top" width="35%">
       <h3>DevOps</h3>
-      <div align="left">
+      <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
       </div>
       <td valign="top" width="35%">
       <h3>AppDev</h3>
-      <div align="left">
+      <div align="center">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
       </div>
