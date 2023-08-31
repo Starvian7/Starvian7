@@ -49,7 +49,7 @@
       </div>
 
    </tr>
-   
+   <br/>  
    <tr> 
       <td valign="top" width="33%">
       ### Backend
@@ -57,7 +57,6 @@
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    alt="bootstrap" width="45" height="45"/>
       </div>
    </tr>
-   <br/>  
 </table>
 
           
